@@ -3,6 +3,9 @@
   "version": "0.0.1",
   "description": "",
   "main": "app/index.js",
+    "engines": {
+    "node": "12.x"
+  },
   "scripts": {
     "postinstall": "bower install && gulp build",
     "start": "node app.js",
