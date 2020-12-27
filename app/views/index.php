@@ -1,9 +1,9 @@
-<!doctype html>
-<html lang="en" ng-app="app">
+<!DOCTYPE html>
+<html lang="en">
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Web Scraper</title>
+    <title>Web Scraper - rafled.com</title>
     <link rel="stylesheet" href="//rafled.com/down-box.css">
 <link rel="stylesheet" href="//rafled.com/s-s-ver1.css?v=2.2">
 <link rel="stylesheet" href="//rafled.com/search.css?v=9" async>
